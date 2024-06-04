@@ -1,4 +1,4 @@
-package galassini.tecnology.jobapp
+package galassini.tecnology.jobapp.Activity
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
